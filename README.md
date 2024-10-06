@@ -1,5 +1,5 @@
 # ink_calc_python 🪣
 
--> Praticando Python básico e puro com Programação Orientada a Objetos - calculando gastos com gasolina em mais de uma moeda tendo em base a distância passada via CLI.  
+-> Praticando Python básico e puro com Programação Orientada a Objetos >> calculando gasto de tinta p/ pintura de cômodo com medidas passadas via CLI. 
 
-printing gas spends (with currencies) based on a distancy passed via CLI. - Pure basic Python practice with Object-Oriented Programming. <- 
+-> Pure basic Python practice with Object-Oriented Programming. >> calculating ink spend to paint a room with passed measures via CLI.
